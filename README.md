@@ -7,7 +7,7 @@ Inserted Slicer with Years
 Inserted Slicer with a Vertical list of different Juridiction                  
 
 ### Insights 
-1.) Crime per capita is shwoing a decline in recent times through a trend line in line chart                        
+1.) Crime per capita is showing a decline in recent times through a trend line in line chart                        
 2.) Crime rate was highest in year 1993                                     
 3.) Altanta GA has recorded the highest crime during the years                          
 4.) Voilent Crimes were highest followed by Assaults, Robberies, Homicides & Rapes                                 
